@@ -1,0 +1,20 @@
+#MyCanvas {
+    background-color: white;
+    border: 10px;
+    border-style: ridge;
+    border-color: gray;
+  }
+  button {
+    font-family:georgian;
+    font-size: 20px;
+    border: 4px;
+    border-style: ridge;
+    border-color: gray;
+  }
+  h1 {
+    color: red;
+    font-size: 40px;
+  }
+  span {
+    font-size: 20px;
+  }
